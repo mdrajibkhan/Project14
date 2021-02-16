@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World Maven Project!" );
+        System.out.println( "Hello World Maven Project with every commit!" );
 
         System.out.println("A NullPointerException is a drag...");
         Object myObject = null;
